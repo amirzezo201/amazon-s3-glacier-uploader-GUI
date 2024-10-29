@@ -99,7 +99,3 @@ Inventory retrieval typically takes 3-5 hours. The application automatically:
 - Updates the UI with current status
 - Caches results when complete
 
-
-## Support
-
-For support, please open an issue in the GitHub repository or contact the maintainers at support@example.com.
